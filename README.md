@@ -1,4 +1,4 @@
-# enote-test
+# enote-test-task
 Test Task for Enote Data Analyst Position
 
 To run the project on local machine:
